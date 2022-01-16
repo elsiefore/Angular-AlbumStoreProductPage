@@ -1,5 +1,4 @@
 import { Injectable } from '@angular/core';
-import { e } from '@angular/core/src/render3';
 import { Http, Response } from '@angular/http';
 import 'rxjs/add/operator/map';
 
